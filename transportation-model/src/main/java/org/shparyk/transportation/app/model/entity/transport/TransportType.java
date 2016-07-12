@@ -1,4 +1,4 @@
-package org.itsimulator.germes.app.model.entity.transport;
+package org.shparyk.transportation.app.model.entity.transport;
 
 /**
  * Type of the station/transport/vehicle

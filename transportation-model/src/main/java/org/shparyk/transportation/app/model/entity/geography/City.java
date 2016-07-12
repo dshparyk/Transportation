@@ -1,8 +1,8 @@
-package org.itsimulator.germes.app.model.entity.geography;
+package org.shparyk.transportation.app.model.entity.geography;
 
 import java.util.Set;
 
-import org.itsimulator.germes.app.model.entity.base.AbstractEntity;
+import org.shparyk.transportation.app.model.entity.base.AbstractEntity;
 
 /**
  * Any locality that contains transport stations

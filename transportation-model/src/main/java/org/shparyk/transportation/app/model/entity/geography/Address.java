@@ -1,4 +1,4 @@
-package org.itsimulator.germes.app.model.entity.geography;
+package org.shparyk.transportation.app.model.entity.geography;
 
 /**
  * Value type that stores address attributes

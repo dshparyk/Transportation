@@ -1,7 +1,7 @@
-package org.itsimulator.germes.app.model.entity.geography;
+package org.shparyk.transportation.app.model.entity.geography;
 
-import org.itsimulator.germes.app.model.entity.base.AbstractEntity;
-import org.itsimulator.germes.app.model.entity.transport.TransportType;
+import org.shparyk.transportation.app.model.entity.base.AbstractEntity;
+import org.shparyk.transportation.app.model.entity.transport.TransportType;
 
 /**
  * Station where passengers can get off or take specific kind

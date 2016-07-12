@@ -1,6 +1,6 @@
-package org.itsimulator.germes.app.model.entity.person;
+package org.shparyk.transportation.app.model.entity.person;
 
-import org.itsimulator.germes.app.model.entity.base.AbstractEntity;
+import org.shparyk.transportation.app.model.entity.base.AbstractEntity;
 
 /**
  * Entity that encapsulates user of the application

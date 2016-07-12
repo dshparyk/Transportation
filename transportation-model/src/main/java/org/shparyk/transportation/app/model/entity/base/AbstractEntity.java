@@ -1,8 +1,8 @@
-package org.itsimulator.germes.app.model.entity.base;
+package org.shparyk.transportation.app.model.entity.base;
 
 import java.time.LocalDateTime;
 
-import org.itsimulator.germes.app.model.entity.person.Account;
+import org.shparyk.transportation.app.model.entity.person.Account;
 
 /**
  * Base class for all business entities
