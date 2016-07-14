@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 /**
  * Contain unit-tests for {@link GeographicServiceImpl} 
- * @author Morenets
+ * @author admin
  *
  */
 public class GeographicServiceImplTest {

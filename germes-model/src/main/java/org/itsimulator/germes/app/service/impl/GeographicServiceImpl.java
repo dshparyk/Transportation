@@ -9,7 +9,7 @@ import org.itsimulator.germes.app.service.GeographicService;
 
 /**
  * Default implementation of the {@link GeographicService}
- * @author Morenets
+ * @author admin
  *
  */
 public class GeographicServiceImpl implements GeographicService {

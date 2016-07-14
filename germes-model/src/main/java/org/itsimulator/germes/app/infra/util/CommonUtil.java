@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * Contains utility functions of the general purpose
- * @author Morenets
+ * @author admin
  *
  */
 public class CommonUtil {
