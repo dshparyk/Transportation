@@ -35,15 +35,6 @@ public class CityTest {
 	}
 
 	@Test
-	public void testaddDuplicateStationFailure() {
-		Station station = new Station();		
-		city.addStation(station);
-		city.addStation(station);
-
-		assertEquals(city.getStations().size(), 1);
-	}
-
-	@Test
 	public void testRemoveStationSuccess() {
 		Station station = city.addStation(TransportType.AVIA);
 		
