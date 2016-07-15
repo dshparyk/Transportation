@@ -2,7 +2,7 @@ package org.itsimulator.germes.app.model.search.criteria.range;
 
 /**
  * Pagination parameters for data retrieval operations
- * @author Morenets
+ * @author admin
  *
  */
 public class RangeCriteria {
