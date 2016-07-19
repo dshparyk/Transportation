@@ -26,6 +26,6 @@ public class CityResourceTest extends JerseyTest{
 		List<?> cities = target("cities").request().get(List.class);
 		assertNotNull(cities);
 		assertTrue(cities.contains("Odessa"));
-		assertTrue(cities.contains("Kyiv"));
+		assertTrue(cities.contains("Kiyv"));
     }
 } 
