@@ -4,7 +4,7 @@ import org.itsimulator.germes.app.infra.exception.base.AppException;
 
 /**
  * Signals about exception cases in the work of external services and API
- * @author admin
+ * @author Morenets
  *
  */
 public class CommunicationException extends AppException {

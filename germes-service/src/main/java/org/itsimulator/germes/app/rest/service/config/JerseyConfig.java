@@ -7,7 +7,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 @ApplicationPath("api")
 /**
  * REST web-service configuration for Jersey
- * @author admin
+ * @author Morenets
  *
  */
 public class JerseyConfig extends ResourceConfig {

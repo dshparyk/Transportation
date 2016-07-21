@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * Verifies functionality of {@link Checks} class
  * 
- * @author admin
+ * @author Morenets
  *
  */
 public class ChecksTest {

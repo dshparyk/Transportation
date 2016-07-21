@@ -8,7 +8,8 @@ import static org.junit.Assert.*;
 
 /**
  * Contains unit-tests to check functionality of {@link City} class
- * @author admin
+ * 
+ * @author Morenets
  *
  */
 public class CityTest {

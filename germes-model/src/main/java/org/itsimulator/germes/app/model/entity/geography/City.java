@@ -10,7 +10,7 @@ import org.itsimulator.germes.app.model.entity.transport.TransportType;
 
 /**
  * Any locality that contains transport stations
- * @author admin
+ * @author Morenets
  *
  */
 public class City extends AbstractEntity {	

@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 /**
  * {@link CityResourceTest} is integration test that verifies
  * {@link CityResource}
- * @author admin
+ * @author Morenets
  *
  */
 public class CityResourceTest extends JerseyTest{

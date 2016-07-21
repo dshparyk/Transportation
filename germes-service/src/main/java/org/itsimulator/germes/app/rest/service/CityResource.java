@@ -12,7 +12,7 @@ import jersey.repackaged.com.google.common.collect.Lists;
 @Path("cities")
 /**
  * {@link CityResource} is REST web-service that handles city-related requests  
- * @author admin
+ * @author Morenets
  *
  */
 public class CityResource {

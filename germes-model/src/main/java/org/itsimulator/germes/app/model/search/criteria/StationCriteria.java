@@ -6,7 +6,7 @@ import org.itsimulator.germes.app.model.entity.transport.TransportType;
 
 /**
  * Filtering criteria for search stations operation
- * @author admin
+ * @author Morenets
  *
  */
 public class StationCriteria {

@@ -7,7 +7,7 @@ import org.itsimulator.germes.app.model.entity.geography.City;
 /**
  * Entry point to perform operations
  * over geographic entities
- * @author admin
+ * @author Morenets
  *
  */
 public interface GeographicService {
